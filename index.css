@@ -1,0 +1,53 @@
+
+.container{
+
+ margin-top: 50px;
+}
+
+.payment-wrapper {
+
+  width:40%;
+}
+
+.payment-method {
+  width: 40%;
+}
+
+.signature-box {
+  width: 40%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.signature-box {
+  visibility: hidden;
+}
+
+.print-button {
+  display: none;
+}
+
+.payment{
+  visibility: hidden;
+  width:100px;
+}
+
+.approve {
+  visibility: hidden;
+}
+/* 
+.navbar,.navbar-default {
+    background-color: rgb(8, 8, 8);
+    border-color: #E7E7E7;
+} */
+
+
+.jumbotron{
+  height: 100px !important;
+  padding: 10px !important;
+  text-align: center !important;
+}
+
+tfoot {
+  font-weight: bolder !important;
+}
